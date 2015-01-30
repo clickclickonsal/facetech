@@ -3,6 +3,7 @@ ruby '2.2.0'
 gem "autoprefixer-rails"
 gem 'coffee-rails', '~> 4.0.0' # Use CoffeeScript for .js.coffee assets and views
 gem "devise"
+gem "twitter-bootstrap-rails"
 gem 'jbuilder', '~> 2.0' # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jquery-rails' # Use jquery as the JavaScript library
 gem 'pg' # Use postgresql as the database for Active Record
